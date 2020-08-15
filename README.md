@@ -15,7 +15,7 @@ and many common features are implemented already which helps you from having to 
 ## Dependencies
 **SDL2** - for window and input managment  
 **GLEW** (static library) - for OpenGL context  
-**GLM** - for matrix/vector math
+**GLM** - for matrix/vector math  
 **FreeType** - for font bitmap creation   
 Included in the `external/` folder using git submodules:  
 **stb_image, stb_write, tinyobjloader**
